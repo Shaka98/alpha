@@ -78,7 +78,7 @@
 
   <!-- Dubai Repos -->
   <project name="Shaka98/device_motorola_dubai" path="device/motorola/dubai" remote="github" revision="Alpha13" clone-depth="1"/>
-  <project name="Shaka98/device_motorola_sm7325-common" path="device/motorola/sm7325-common" remote="github" revision="13" clone-depth="1"/>
+  <project name="Shaka98/device_motorola_sm7325-common" path="device/motorola/sm7325-common" remote="github" revision="Alpha13" clone-depth="1"/>
   <project name="Shaka98/kernel_motorola_dubai" path="kernel/motorola/dubai" remote="github" revision="arrow-13.1" clone-depth="1" />
   <project name="surajdazz/proprietary_vendor_motorola_dubai" path="vendor/motorola/dubai" remote="gitlab" revision="13" clone-depth="1"/>
   <project name="surajdazz1/firmware_images" path="vendor/motorola/firmware" remote="gitlab" revision="dubai" clone-depth="1"/>
